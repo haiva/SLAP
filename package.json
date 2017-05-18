@@ -1,7 +1,7 @@
 {
-  "name": "slapp",
+  "name": "socket-chat",
   "version": "0.0.1",
-  "description": "Slack-like chat app using Node, React-Redux, Socket.io, Express",
+  "description": "Socket.io chat example",
   "dependencies": {
     "socket.io": "^2.0.1"
   },
