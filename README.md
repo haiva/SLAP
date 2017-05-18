@@ -1,2 +1,2 @@
-# Slapp
-Slack-like chat application using Node.js, React-Redux, socket.io, express, etc.
+# Socket-chat
+Socket.io chat example
