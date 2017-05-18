@@ -4,5 +4,12 @@
   "description": "Slack-like chat app using Node, React-Redux, Socket.io, Express",
   "dependencies": {
     "socket.io": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
